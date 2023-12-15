@@ -30,16 +30,16 @@
     <!-- tools  -->
     <h3>Tools</h3>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
       </a> 
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Figma-#24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
       </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
       </a>
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> 
       </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hszoo&show_icons=true&theme=radical)
 
