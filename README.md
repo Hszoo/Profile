@@ -31,7 +31,7 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
         </a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/Django-6DB33F?style=flat-square&logo=Django&logoColor=white"/> 
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
         </a> 
       </p>
     <!-- tools  -->
