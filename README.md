@@ -1,6 +1,8 @@
 <div align="center">
   <h2>Hi 👋, I'm Seong Ju Hong</h2>
     <p>BACKEND Developer</p>
+    <h3>CONTACT ME</h3>
+    <a href="mailto:trre18271510@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
   <!-- skills -->
   <h3>Skills</h3>
       <p align="center">   
@@ -17,16 +19,16 @@
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
         </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" width="40" height="40"/>
         </a> 
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
         </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python" width="40" height="40"/>
         </a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="spring" width="40" height="40"/> 
         </a> 
       </p>
     <!-- tools  -->
