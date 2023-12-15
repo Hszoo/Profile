@@ -15,17 +15,20 @@
          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
         </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java"/>
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" height=10/>
         </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python"/>
+          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python" height=10/>
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" height=10/> 
         </a><br>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
         </a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
-        </a> 
+        </a><br>
     <!-- tools  -->
     <h3>Tools</h3>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
