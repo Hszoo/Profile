@@ -19,16 +19,16 @@
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
         </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" width="40" height="40"/>
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java"/>
         </a> 
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
         </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python" width="40" height="40"/>
+          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python"/>
         </a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="spring" width="40" height="40"/> 
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
         </a> 
       </p>
     <!-- tools  -->
