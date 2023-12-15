@@ -23,6 +23,7 @@
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br>      
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/><br><br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hszoo&show_icons=true&theme=radical)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hszoo&show_icons=true&theme=radical) -->
 
