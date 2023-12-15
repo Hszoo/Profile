@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
       </a> 
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/Figma-#24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Figma-24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
       </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
