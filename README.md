@@ -1,8 +1,9 @@
 <div align="center">
   <h2>Hi 👋, I'm Seong Ju Hong</h2>
     <p>BACKEND Developer</p>
+    <hr>
     <h3>CONTACT ME</h3>
-    <a href="mailto:trre18271510@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+    <a href="mailto:trre18271510@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a><br>
   <!-- skills -->
   <h3>Skills</h3>
       <p align="center">   
@@ -27,7 +28,7 @@
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
         </a> 
-      </p>
+      </p><br>
     <!-- tools  -->
     <h3>Tools</h3>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -41,7 +42,6 @@
       </a>
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-      </a> 
-
+      </a><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hszoo&show_icons=true&theme=radical)
 
