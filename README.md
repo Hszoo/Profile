@@ -29,6 +29,9 @@
         </a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
+        </a>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://img.shields.io/badge/Django-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
         </a> 
       </p>
     <!-- tools  -->
