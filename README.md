@@ -7,13 +7,13 @@
     <h3>🛠️Skills</h3>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="html"/>
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="css"/><br>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" />
       <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white" alt="kotlin" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><br>
     <!-- tools  -->
     <h3>Tools</h3>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
