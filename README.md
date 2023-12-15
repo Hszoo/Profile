@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
     <!-- skills  -->
     <h3>Skills</h3>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
         </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
