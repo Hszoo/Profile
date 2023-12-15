@@ -34,15 +34,18 @@
         </a>
     <!-- tools  -->
     <h3>Tools</h3>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
+      </a> 
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
-      </a> 
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/Figma-24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
       </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
       </a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Figma-24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+      </a><br>
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> 
       </a><br><br>
