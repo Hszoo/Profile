@@ -5,14 +5,14 @@
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
     <!-- skills  -->
     <h3>🛠️Skills</h3>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
-        </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="html"/>
         </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="css"/>
+        </a><br>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
         </a> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java"/>
