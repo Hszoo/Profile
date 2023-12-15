@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Seong Ju Hong</h2>
-    <h3>📲Contact Me</h3>
+    <h3>📲Contact Me</h3>
     <a href="mailto:trre1827151@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
     <!-- skills  -->
