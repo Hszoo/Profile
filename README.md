@@ -38,7 +38,7 @@
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
       </a> 
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <br>
       </a> 
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
