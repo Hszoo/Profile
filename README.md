@@ -19,7 +19,7 @@
         </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="python"/>
-        </a> 
+        </a><br>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
         </a>
