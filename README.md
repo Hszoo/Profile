@@ -18,7 +18,7 @@
     <h3>Tools</h3>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <br>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logoColor=white"/><br> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br> 
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Figma-24E1E?style=flat-square&logo=Figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
