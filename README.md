@@ -1,10 +1,10 @@
 <div align="center">
   <h2>Hi, I'm Seong Ju Hong</h2>
     <h3>Contact Me</h3>
-    <a href="mailto:trre1827151@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
+    <a href="mailto:trre1827151@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
     <!-- skills  -->
     <h3>Skills</h3>
-      <p align="center">   
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c"/>
         </a> 
@@ -26,7 +26,6 @@
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
         </a> 
-      </p>
     <!-- tools  -->
     <h3>Tools</h3>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
