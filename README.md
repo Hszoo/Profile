@@ -1,7 +1,7 @@
 <div>
-  ## Seong Ju Hong
+  ##Seong Ju Hong
 </div>
-  ### 📲 About Me
+  ###📲 About Me
   - Dongduk University - Computer
   - Contact : <a href="mailto:trre1827151@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
