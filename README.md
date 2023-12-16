@@ -1,10 +1,10 @@
-<div align="center">
-  <h1>I'm Seong Ju Hong</h1>
+<div align="left">
+  <h1>Seong Ju Hong</h1>
   <h3>📲Contact Me</h3>
     <a href="mailto:trre1827151@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
   <!-- skills  -->
-  <h3>🛠️Skills</h3>
+  <h3>🛠️ Skills</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" />
     <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white" alt="kotlin" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <br>
