@@ -1,6 +1,6 @@
 <div>
   
-  # ❕ SeongJu 
+  # SeongJu Hong
 </div>
 
 <div>
