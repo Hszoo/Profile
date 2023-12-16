@@ -1,10 +1,11 @@
 <div align="left">
-  <h2>Seong Ju Hong</h2>
-  <h3>📲Contact Me</h3>
-    <a href="mailto:trre1827151@gmail.com">
+  ## Seong Ju Hong
+  ### 📲 About Me
+  - Dongduk University - Computer
+  - Contact : <a href="mailto:trre1827151@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
   <!-- skills  -->
-  <h3>🛠️ Skills</h3>
+  ### 🛠️ Skills
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" />
     <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white" alt="kotlin" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <br>
@@ -15,7 +16,7 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="html"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="css"/>
   <!-- tools  -->
-  <h3>Tools</h3>
+  ### Tools
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
