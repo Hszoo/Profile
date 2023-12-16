@@ -1,5 +1,6 @@
-<div align="left">
+<div>
   ## Seong Ju Hong
+</div>
   ### 📲 About Me
   - Dongduk University - Computer
   - Contact : <a href="mailto:trre1827151@gmail.com">
