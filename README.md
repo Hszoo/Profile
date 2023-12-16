@@ -1,4 +1,4 @@
-<div width=40%>
+<div>
   
   # ❕ SeongJu 
 </div>
