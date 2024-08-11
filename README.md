@@ -25,6 +25,7 @@
 
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?&style=flat-square&logo=Amazon Web Services&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black"/>
