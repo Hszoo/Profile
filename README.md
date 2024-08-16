@@ -21,7 +21,9 @@
 <br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23013243.svg?style=flat-square&logo=Matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-%150458.svg?style=flat-square&logo=Pandas&logoColor=white"/>
 
 <br>
 <img src="https://img.shields.io/badge/AWS-232F3E?&style=flat-square&logo=Amazon Web Services&logoColor=white"/>
