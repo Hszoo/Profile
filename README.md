@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 </div>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hszoo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
